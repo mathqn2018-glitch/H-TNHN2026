@@ -1,0 +1,6 @@
+{
+  "name": "EduLife AI Studio 2026 - Hoạt động Trải nghiệm, Hướng nghiệp THPT",
+  "description": "Nền tảng hỗ trợ giáo viên tổ chức Hoạt động trải nghiệm, hướng nghiệp THPT lớp 10, 11, 12 bộ Kết nối tri thức với cuộc sống. Tích hợp Sân khấu động AI, VR Studio 360° Thực tế ảo, Trò chơi tương tác và Trợ lý giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
